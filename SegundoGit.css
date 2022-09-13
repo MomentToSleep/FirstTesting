@@ -1,4 +1,12 @@
-*{
-    background-color: blue;
-    color: rgb(220, 245, 226);
+body{
+
+    background-color: rgb(99, 172, 116);
+}
+
+h1{
+    text-align: center;
+}
+
+.Right{
+    text-align: right;
 }
