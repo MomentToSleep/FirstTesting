@@ -17,6 +17,6 @@ elif numero2 > numero1:
     print('el numero 2 es mayor que el numero 1')
 
 if edad >= 18:
-    print('ES MAYOR DE EDAD')
+    print( nombre + ' ES MAYOR DE EDAD')
 elif edad <= 17:
-    print('ES MENOR DE EDAD')
+    print(nombre + ' ES MENOR DE EDAD')
