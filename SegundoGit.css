@@ -2,3 +2,9 @@ h1{
     background-color: blue;
     color: rgb(220, 245, 226);
 }
+h2{
+    display: block;
+    size: 30px;
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
