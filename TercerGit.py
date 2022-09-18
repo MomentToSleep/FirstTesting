@@ -1,6 +1,3 @@
-from ast import If
-from operator import ifloordiv
-
 nombre = input('¿Cual es tu nombre?')
 
 edad = int(input('¿Cuantos años tienes?'))
@@ -20,3 +17,8 @@ if edad >= 18:
     print('ES MAYOR DE EDAD')
 elif edad <= 17:
     print('ES MENOR DE EDAD')
+
+if edad> 60:
+    print("Es de la tercera edad")
+else:
+    print("No es de la tercera edad")
