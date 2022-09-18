@@ -1,7 +1,28 @@
 h1{
+    display: inline;
     background-color: blue;
     color: rgb(220, 245, 226);
 }
+
+.Right{
+    display: inline;
+    text-align: right;
+    font-size: 50px;
+}
+
+ul{
+    list-style: none;
+    align-items: unset;
+}
+
+button{
+    padding: 25px;
+}
+
+.sizebuttons{
+    marker: none;
+}
+
 h2{
     display: block;
     size: 30px;
