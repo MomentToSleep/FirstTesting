@@ -1,6 +1,3 @@
-from ast import If
-from operator import ifloordiv
-
 nombre = input('¿Cual es tu nombre?')
 
 edad = int(input('¿Cuantos años tienes?'))
