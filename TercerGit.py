@@ -16,4 +16,13 @@ elif numero2 > numero1:
 if edad >= 18:
     print( nombre + ' ES MAYOR DE EDAD')
 elif edad <= 17:
+<<<<<<< HEAD
     print(nombre + ' ES MENOR DE EDAD')
+=======
+    print('ES MENOR DE EDAD')
+
+if edad> 60:
+    print("Es de la tercera edad")
+else:
+    print("No es de la tercera edad")
+>>>>>>> Testing
