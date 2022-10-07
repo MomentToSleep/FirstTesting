@@ -10,3 +10,9 @@ if Cumple:
 else:
   print ( 'Usted tiene ' + str(edad) + ' Usted no puede ingresar')
 # comment
+numero = int(input('DIGITE UN NUMERO POR FAVOR'))
+if numero %2 == 0:
+  print ('EL NUMERO DIGITADO ES PAR')
+else:
+  print ('EL NUMERO DIGITADO ES IMPAR')
+
